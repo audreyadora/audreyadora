@@ -2,7 +2,7 @@
 
 <h3 align="center">🏳️‍⚧️ <br/> Interdisciplinary avante-garde in creative development and data visualization. </h3>
 
-- 🔭 I'm currently employed as a Semiconductor Manufacturing Technician. I’ve been working on a portable fastapi/chromium prototyping platform for automation dashboards.
+- 🔭 I’ve been working on a portable fastapi/chromium prototyping platform for automation dashboards.
 
 <h3 align="left">Connect with me:</h3>
 
