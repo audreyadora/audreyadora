@@ -39,11 +39,4 @@
 </p>
 </details>
 
-<details>
-<summary><strong>💫 Accomplishments:</strong></summary>
-<p>
-  - Architecting a large-scale proposal to challenge established waterfall project management methodologies.<br/>
-  - Successfully incorporated a solution that increased team adherence rates from 82.5% to 93.2% in 1 month.<br/>
-  - Eliminated lead time delays of 30 minutes to 1 hour per event with an automated alert notification system.
-</p>
-</details>
+
