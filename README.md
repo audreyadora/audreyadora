@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Audrey (she/her)</h1>
 
-<h3 align="center">🏳️‍⚧️<br/>Interdisciplinary Innovator in Creative Development and Data Visualization.</h3>
+<h3 align="center">🏳️‍⚧️<br/>Interdisciplinary Avante Garde in Creative Development and Data Visualization.</h3>
 
 <details>
 <summary><strong>🔗 Connect with me:</strong></summary>
