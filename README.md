@@ -2,7 +2,7 @@
 
 <h3 align="center">🏳️‍⚧️<br/>Interdisciplinary Avante Garde in Creative Development and Data Visualization.</h3>
 
-<details>
+<details open>
 <summary><strong>🔗 Connect with me:</strong></summary>
 <p>
   - LinkedIn: <a href="https://www.linkedin.com/in/audreyadora/">Visit my profile</a><br/>
@@ -11,28 +11,28 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><strong>🛠️ Languages and Tools:</strong></summary>
 <p>
    Rust ✦ Typescript ✦ WebGL ✦ HTML ✦ CSS/SASS ✦ R Studio ✦ React.js ✦ Python ✦ FastAPI ✦ Redux ✦ SQL ✦ Oracle ✦ MongoDB ✦ Svelte ✦ D3.js ✦ Jest
 </p>
 </details>
 
-<details>
+<details open>
 <summary><strong>🎨 Current Project:</strong></summary>
 <p>
-  SVQuence.UI: A comprehensive Svelte library for creating rich, interactive automation UIs for music and media editing applications. <a href="https://github.com/audreyadora/svquence-ui">Check it out here</a>
+  Working on a versatile WebGL2 Midi Piano Roll Editor <a href="https://harmony-audreyadora.vercel.app/midinotes">Check it out here</a>
 </p>
 </details>
 
-<details>
+<details open>
 <summary><strong>🎓 Education:</strong></summary>
 <p>
   Currently pursuing a BS in Data Analytics, Minor in Anthropology at Washington State University.
 </p>
 </details>
 
-<details>
+<details open>
 <summary><strong>📜 Professional Experience:</strong></summary>
 <p>
   6+ years in data-centric roles, delivering precise results in laboratory settings. Expertise in leveraging interdisciplinary perspective and imaginative insight to foster aggressive personal growth and provide meaningful solutions. Significant experience in accelerating critical prototype and production equipment recoveries in semiconductor chipset development.
