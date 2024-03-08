@@ -35,7 +35,7 @@
 <details open>
 <summary><strong>📜 Professional Experience:</strong></summary>
 <p>
-  6+ years in data-centric roles, delivering precise results in laboratory settings. Expertise in leveraging interdisciplinary perspective and imaginative insight to foster aggressive personal growth and provide meaningful solutions. Significant experience in accelerating critical prototype and production equipment recoveries in semiconductor chipset development.
+  6+ years in data-centric roles in semiconductor chipset development.
 </p>
 </details>
 
