@@ -14,7 +14,7 @@
 <details>
 <summary><strong>🛠️ Languages and Tools:</strong></summary>
 <p>
-  Python ✦ Typescript ✦ HTML ✦ CSS/SASS ✦ R Studio ✦ React.js ✦ FastAPI ✦ Redux ✦ SQL ✦ Oracle ✦ MongoDB ✦ Svelte ✦ D3.js ✦ Jest
+   Rust ✦ Typescript ✦ WebGL ✦ HTML ✦ CSS/SASS ✦ R Studio ✦ React.js ✦ Python ✦ FastAPI ✦ Redux ✦ SQL ✦ Oracle ✦ MongoDB ✦ Svelte ✦ D3.js ✦ Jest
 </p>
 </details>
 
