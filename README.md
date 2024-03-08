@@ -35,7 +35,7 @@
 <details open>
 <summary><strong>📜 Professional Experience:</strong></summary>
 <p>
-  6+ years in data-centric roles, presently employed in semiconductor chipset development.
+  7+ years in data-centric roles, presently employed in semiconductor chipset development.
 </p>
 </details>
 
