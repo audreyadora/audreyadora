@@ -3,12 +3,9 @@
 <h3 align="center">🏳️‍⚧️<br/>Interdisciplinary Avante Garde in Creative Development and Data Visualization.</h3>
 
 <details open>
-<summary><strong>🔗 Portfolio:</strong></summary>
-<p>
- <a href="https://lightfromlight.cargo.site">Check out my work</a><br/>
-</p>
 <summary><strong>🔗 Connect with me:</strong></summary>
 <p>
+  - Portfolio: <a href="https://lightfromlight.cargo.site">Check out my work</a><br/>
   - LinkedIn: <a href="https://www.linkedin.com/in/audreyadora/">Visit my profile</a><br/>
   - GitHub: <a href="https://github.com/audreyadora">See my projects</a>
 </p>
