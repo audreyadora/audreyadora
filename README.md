@@ -1,8 +1,12 @@
 <h1 align="center">Hello 👋, I'm Audrey (she/her)</h1>
 
 <h3 align="center">🏳️‍⚧️<br/>Interdisciplinary Avante Garde in Creative Development and Data Visualization.</h3>
-<a href="https://lightfromlight.cargo.site">Check out my work</a><br/>
+
 <details open>
+<summary><strong>🔗 Portfolio:</strong></summary>
+<p>
+ <a href="https://lightfromlight.cargo.site">Check out my work</a><br/>
+</p>
 <summary><strong>🔗 Connect with me:</strong></summary>
 <p>
   - LinkedIn: <a href="https://www.linkedin.com/in/audreyadora/">Visit my profile</a><br/>
